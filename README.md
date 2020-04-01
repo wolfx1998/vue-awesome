@@ -22,4 +22,4 @@ Novicell's default lazyload package, that extends on Lazysizes and implements .N
 
 ### Datepickers
 * [Vue Flatpickr Component](https://github.com/ankurk91/vue-flatpickr-component) - [![bundlephobia](https://badgen.net/bundlephobia/min/vue-flatpickr-component)](https://bundlephobia.com/result?p=vue-flatpickr-component)
-Novicell's default lazyload package, that extends on Lazysizes and implements .NET Imageprocessor
+Vue implementation of the Flatpicr datepicker, that seems to work very nice for just a regular datepicker.
