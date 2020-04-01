@@ -2,7 +2,7 @@
 ### A curated list of AWESOME Vue resources, by Novicell
 
 ### Table of contents
-* Libraries & Plugins
+* [Libraries & Plugins](https://github.com/Novicell/vue-awesome#libraries--plugins)
 
 ## Libraries & Plugins
 
