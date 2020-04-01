@@ -1,5 +1,5 @@
 # ✌ Novicell Vue AWESOME ✌
-### A curated list of AWESOME Vue resources, by Novicell
+### A list of AWESOME Vue resources, currated by Novicell inspired by [awesome-vue](https://github.com/vuejs/awesome-vue)
 
 ### Table of contents
 * [Libraries & Plugins](https://github.com/Novicell/vue-awesome#libraries--plugins)
