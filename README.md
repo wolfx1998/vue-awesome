@@ -3,6 +3,9 @@
 
 ### Table of contents
 * [Libraries & Plugins](https://github.com/Novicell/vue-awesome#libraries--plugins)
+* * [Carousels](https://github.com/Novicell/vue-awesome/#carousels-sliders)
+* * [Image lazyloading](https://github.com/Novicell/vue-awesome/#image-lazyloading)
+* * [Datepickers](https://github.com/Novicell/vue-awesome/#datepickers)
 
 ## Libraries & Plugins
 
@@ -16,7 +19,6 @@ Carousel for Vue.js. It has known bugs as NOT being able to be server side rende
 ### Image lazyloading
 * [Novicell lazyload](https://github.com/Novicell/novicell-lazyload) - [![bundlephobia](https://badgen.net/bundlephobia/min/novicell-lazyload)](https://bundlephobia.com/result?p=novicell-lazyload)
 Novicell's default lazyload package, that extends on Lazysizes and implements .NET Imageprocessor
-
 
 ### Datepickers
 * [Vue Flatpickr Component](https://github.com/ankurk91/vue-flatpickr-component) - [![bundlephobia](https://badgen.net/bundlephobia/min/vue-flatpickr-component)](https://bundlephobia.com/result?p=vue-flatpickr-component)
