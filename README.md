@@ -3,9 +3,9 @@
 
 ### Table of contents
 * [Libraries & Plugins](https://github.com/Novicell/vue-awesome#libraries--plugins)
-* * [Carousels](https://github.com/Novicell/vue-awesome/#carousels-sliders)
-* * [Image lazyloading](https://github.com/Novicell/vue-awesome/#image-lazyloading)
-* * [Datepickers](https://github.com/Novicell/vue-awesome/#datepickers)
+  * [Carousels](https://github.com/Novicell/vue-awesome/#carousels-sliders)
+  * [Image lazyloading](https://github.com/Novicell/vue-awesome/#image-lazyloading)
+  * [Datepickers](https://github.com/Novicell/vue-awesome/#datepickers)
 
 ## Libraries & Plugins
 
