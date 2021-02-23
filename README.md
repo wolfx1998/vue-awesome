@@ -24,6 +24,11 @@ Novicell's default lazyload package, that extends on Lazysizes and implements .N
 * [Vue Flatpickr Component](https://github.com/ankurk91/vue-flatpickr-component) - [![bundlephobia](https://badgen.net/bundlephobia/min/vue-flatpickr-component)](https://bundlephobia.com/result?p=vue-flatpickr-component)
 Vue implementation of the Flatpicr datepicker, that seems to work very nice for just a regular datepicker.
 
+### Multiselect
+* [Vue Treeselect](https://github.com/riophae/vue-treeselect) - [![bundlephobia](https://badgen.net/bundlephobia/min/vue-treeselect)](https://bundlephobia.com/result?p=vue-treeselect@1.0.7)
+Simplified, multiselection component with built in search, nested options selection and async updates. Customizable keys to fit any API
+
+
 ### Validation
 * [VeeValidate](https://github.com/logaretm/vee-validate) - [![bundlephobia](https://badgen.net/bundlephobia/min/vee-validate)](https://bundlephobia.com/result?p=vee-validate)
 Template Based Form Validation Framework for Vue.js
